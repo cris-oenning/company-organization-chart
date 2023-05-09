@@ -12,11 +12,19 @@ This project provides an easy-to-use, interactive experience for visualizing a c
 
 # How to use:
 
+1ª Option:
+
 Requires Node.Js version 18 (or higher) installed. -> https://nodejs.org/
 
 1. Install Node.Js 18 (or higher) from the official website https://nodejs.org/, if not installed.
 4. Use the command "npm i" in the terminal to install all necessary dependencies.
 5. Use the command "npm start" in the terminal to open the web system in your browser.
+
+2º Option:
+
+Access the website with the link below:
+
+https://organograma-empresa.vercel.app/
 
 # Expansion:
 
